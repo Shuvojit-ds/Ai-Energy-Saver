@@ -1,0 +1,6 @@
+{
+  "name": "AI Energy Saver",
+  "description": "AI-powered electricity consumption, Ridge Regression prediction, cost analysis, seasonal intelligence, RAG knowledge retrieval, and agentic energy audit platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
